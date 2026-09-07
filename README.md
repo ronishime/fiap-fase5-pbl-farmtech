@@ -137,7 +137,6 @@ Em resumo: **Norte da Virgínia é a opção mais barata, mas São Paulo é a op
 - <b>modelo_rendimento_safra.joblib</b>: modelo final treinado, gerado pelo notebook.
 - <b>assets</b>: figuras geradas pelo notebook e o gráfico de comparação de custos da AWS (`aws_comparacao_custos.png`, gerado por `gerar_grafico_aws.py`). Os arquivos `mall.csv` e `moons.csv` são bases de exemplo do Cap. 10 e não são usados nesta entrega.
 - <b>gerar_grafico_aws.py</b>: script que gera o gráfico da Entrega 2 a partir dos valores cotados na calculadora.
-- <b>roteiro_videos.md</b>: roteiro dos dois vídeos de entrega.
 - <b>requirements.txt</b>: dependências do projeto.
 - <b>README.md</b>: este arquivo.
 
